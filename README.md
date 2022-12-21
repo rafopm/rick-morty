@@ -1,2 +1,2 @@
-# rick-morty
-JavaScript - React - HTML - CSS
+# Rick-and-Morty
+React &amp; JavaScript Project
