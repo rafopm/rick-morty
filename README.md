@@ -1,2 +1,2 @@
 # Rick-and-Morty
-React &amp; JavaScript Project
+JavaScript - React - HTML5 - CSS
